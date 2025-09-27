@@ -1,6 +1,6 @@
 # 🎲 Rubik's Cube Solver
 
-This project is a **Rubik’s Cube Solver** built in **JavaScript (ES6), HTML, and CSS** as part of an assignment task. The solver provides a visual and interactive representation of a Rubik’s Cube, allows manual rotations, scrambling, and solving using a simplified layer-by-layer algorithm.
+This project is a **Rubik’s Cube Solver** built in **JavaScript, HTML, and CSS** as part of an assignment task. The solver provides a visual and interactive representation of a Rubik’s Cube, allows manual rotations, scrambling, and solving using a simplified layer-by-layer algorithm.
 
 ---
 
@@ -27,7 +27,7 @@ This project is a **Rubik’s Cube Solver** built in **JavaScript (ES6), HTML, a
 
 * **HTML5** – Structure & layout
 * **CSS3** – Styling and responsive UI
-* **JavaScript (ES6)** – Cube logic, solver algorithm, and rendering
+* **JavaScript** – Cube logic, solver algorithm, and rendering
 
 ---
 
@@ -104,8 +104,8 @@ This project implements all required tasks:
 
 ## 📎 Links
 
-* **Resume:** [Your Resume Link]
-* **GitHub Repo:** [GitHub Repository Link]
+* **Resume:** https://drive.google.com/file/d/102Wrf0MZNBTp6qwIfglcuklD49t1i5WV/view?usp=drivesdk
+* **GitHub Repo:** https://github.com/Vicky9022/Rubik-s-Cube-Solver.git
 
 ---
 
